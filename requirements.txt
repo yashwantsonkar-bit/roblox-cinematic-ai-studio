@@ -1,0 +1,2 @@
+# Core scripts use Python standard library only.
+# Optional: install packages only when a selected integration requires them.

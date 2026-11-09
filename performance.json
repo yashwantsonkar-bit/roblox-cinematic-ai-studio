@@ -1,0 +1,13 @@
+{
+  "profile": "low_end_pc_default",
+  "heavy_local_jobs_at_once": 1,
+  "preview_resolution_scale": 0.5,
+  "fallback_preview_resolution_scale": 0.25,
+  "cycles_preview_samples": 16,
+  "scene_by_scene": true,
+  "cache_enabled": true,
+  "render_only_changed_shots": true,
+  "prefer_cloud_ai_when_configured": true,
+  "local_ai_inference_default": false,
+  "final_render_requires_preview_qa": true
+}

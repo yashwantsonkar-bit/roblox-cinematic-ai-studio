@@ -1,0 +1,34 @@
+{
+  "project": "birthday-letter-short",
+  "status": "planning",
+  "target": {
+    "platform": "YouTube Shorts",
+    "aspect_ratio": "9:16",
+    "fps": 30
+  },
+  "characters": [
+    {
+      "id": "noah",
+      "style": "classic R6",
+      "reference": "story/character-bible.md"
+    }
+  ],
+  "assets": [],
+  "shots": [
+    {
+      "id": "shot_001",
+      "duration_seconds": 4,
+      "status": "planned"
+    }
+  ],
+  "providers": {
+    "image": null,
+    "video": null,
+    "voice": null,
+    "music": null
+  },
+  "qa": {
+    "preview_passed": false,
+    "final_verified": false
+  }
+}

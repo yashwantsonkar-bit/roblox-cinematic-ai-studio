@@ -1,0 +1,16 @@
+{
+  "providers": {
+    "elevenlabs_mcp": {
+      "enabled": false,
+      "transport": "http",
+      "url": "https://api.elevenlabs.io/v1/mcp",
+      "auth": "OAuth via MCP client",
+      "note": "Optional; review account permissions and credits."
+    },
+    "image_generation": [],
+    "video_generation": [],
+    "voice_generation": [],
+    "music_and_sfx": []
+  },
+  "policy": "Only mark a provider enabled after successful authentication and a test call."
+}
